@@ -1,7 +1,7 @@
 
 # ican_project
 
-A new Flutter project.
+Re-design for iCAN company for technical solutions App
 
 ## Getting Started
 
